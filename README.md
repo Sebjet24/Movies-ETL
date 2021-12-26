@@ -12,6 +12,7 @@ This project is done as follows:
    - Perform the appropriate transformations
    - Load the data into existing table and create the Movie Database. 
 
+<<<<<<< HEAD
 
 
 ## Resources
@@ -20,6 +21,8 @@ This project is done as follows:
 - Module: pandas, numpy, json, re, create_engine, db_password, time  
 
 
+=======
+>>>>>>> 8908d4d2463a9cb4b7aefd7ba68bb25847f205a2
 ## Summary
 
 Using the knowledge of Python, Pandas, the ETL process, to achieve the following goals: 
